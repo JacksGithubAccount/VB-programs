@@ -1,0 +1,9 @@
+c:\users\zao\documents\visual studio 2010\Projects\MansionExploration\MansionExploration\bin\Debug\MansionExploration.exe
+c:\users\zao\documents\visual studio 2010\Projects\MansionExploration\MansionExploration\bin\Debug\MansionExploration.pdb
+c:\users\zao\documents\visual studio 2010\Projects\MansionExploration\MansionExploration\bin\Debug\MansionExploration.xml
+c:\users\zao\documents\visual studio 2010\Projects\MansionExploration\MansionExploration\obj\x86\Debug\MansionExploration.FormMain.resources
+c:\users\zao\documents\visual studio 2010\Projects\MansionExploration\MansionExploration\obj\x86\Debug\MansionExploration.Resources.resources
+c:\users\zao\documents\visual studio 2010\Projects\MansionExploration\MansionExploration\obj\x86\Debug\MansionExploration.vbproj.GenerateResource.Cache
+c:\users\zao\documents\visual studio 2010\Projects\MansionExploration\MansionExploration\obj\x86\Debug\MansionExploration.exe
+c:\users\zao\documents\visual studio 2010\Projects\MansionExploration\MansionExploration\obj\x86\Debug\MansionExploration.xml
+c:\users\zao\documents\visual studio 2010\Projects\MansionExploration\MansionExploration\obj\x86\Debug\MansionExploration.pdb
