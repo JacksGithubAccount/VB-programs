@@ -1,0 +1,9 @@
+C:\Users\Zao\Documents\Visual Studio 11\Projects\DiceRollerExtreme\DiceRollerExtreme\bin\Debug\DiceRollerExtreme.exe.config
+C:\Users\Zao\Documents\Visual Studio 11\Projects\DiceRollerExtreme\DiceRollerExtreme\bin\Debug\DiceRollerExtreme.exe
+C:\Users\Zao\Documents\Visual Studio 11\Projects\DiceRollerExtreme\DiceRollerExtreme\bin\Debug\DiceRollerExtreme.pdb
+C:\Users\Zao\Documents\Visual Studio 11\Projects\DiceRollerExtreme\DiceRollerExtreme\obj\Debug\DiceRollerExtreme.csprojResolveAssemblyReference.cache
+C:\Users\Zao\Documents\Visual Studio 11\Projects\DiceRollerExtreme\DiceRollerExtreme\obj\Debug\DiceRollerExtreme.Form1.resources
+C:\Users\Zao\Documents\Visual Studio 11\Projects\DiceRollerExtreme\DiceRollerExtreme\obj\Debug\DiceRollerExtreme.Properties.Resources.resources
+C:\Users\Zao\Documents\Visual Studio 11\Projects\DiceRollerExtreme\DiceRollerExtreme\obj\Debug\DiceRollerExtreme.csproj.GenerateResource.Cache
+C:\Users\Zao\Documents\Visual Studio 11\Projects\DiceRollerExtreme\DiceRollerExtreme\obj\Debug\DiceRollerExtreme.exe
+C:\Users\Zao\Documents\Visual Studio 11\Projects\DiceRollerExtreme\DiceRollerExtreme\obj\Debug\DiceRollerExtreme.pdb
